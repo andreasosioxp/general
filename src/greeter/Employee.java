@@ -7,7 +7,7 @@ public class Employee {
 	private String name, surname;
 	private Calendar birthday;
 	private String email;
-	DateProvider dateProvider;
+	private DateProvider dateProvider;
 	
 	public String getName() {
 		return name;
